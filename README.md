@@ -17,6 +17,3 @@ Welcome to my Symfony portfolio! 🚀 Here, you’ll find all my Symfony project
 - [TechNews](https://github.com/ZitaNguyen/techNews)
 - [ElaNature](https://github.com/ZitaNguyen/elanature)
 
----
-
-Does this structure work for you? Want me to refine anything? 🚀
